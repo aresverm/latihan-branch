@@ -1,3 +1,4 @@
 # Ini adalah repositpry untuk belajar membuat branch baru di Github
-Github itu asyik lo
-pppp
+Belajar GitHub di Dicoding itu seru
+hahahaa
+
